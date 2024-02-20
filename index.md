@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Home
 description: 记录美好生活.
 ---
 
@@ -9,7 +9,7 @@ description: 记录美好生活.
 
 &nbsp;
 
-Hello world
+Hello world Home Page
 
 &nbsp;
 
